@@ -1,14 +1,8 @@
-* {
-    box-sizing: content-box;
+
+body{
+    background-color: gray;
 }
-html, body {
-    margin: 0;
-    padding: 0;
-    width:100%;
-    height: 100%;
-    overflow: auto;
-}
-body {
-    background: #333;
+
+h1{
     color: red;
 }
